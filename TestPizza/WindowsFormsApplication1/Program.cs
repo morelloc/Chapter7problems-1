@@ -11,11 +11,17 @@ namespace WindowsFormsApplication1
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        public static void Main()
         {
-            Girlscout sally = new Girlscout();
+            Scout[] scout;
+            scout = new Scout [10];
             
 
+            for (int i = 0; i < scout.Length; i++)
+            {
+                scout[i] = new Scout();
+                scout[i].troop = 0;
+            }
            
         }
     }

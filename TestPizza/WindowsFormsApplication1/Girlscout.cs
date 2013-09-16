@@ -5,33 +5,30 @@ using System.Text;
 
 namespace WindowsFormsApplication1
 {
-    class Girlscout
+    class Scout
     {
-        private string name;
-        private int troop;
-        private int dues;
-        public static string motto = ("to obey the Girl Scout law");
+        public const string motto = "to obey the Girl Scout law";
 
-        public Girlscout(int troop, int dues, string name)
+        public Scout(int troop, int dues, string name)
         {
            int TroopNumber = troop;
            string FullName = name;
            int MoneyOwed = dues;
         }
-    
-       
-        public Girlscout();
-            troop = 0
-            name = "sally"
-            dues = 0
 
-            
-        
-        
-        public Girlscout() : this(0.0, 0.0, "XXX")
+        public Scout(string empName, int empTroop, double empOwed)
+        {
+            name = empName;
+            troop = empTroop;
+            dues = empOwed;
+        }
+    
+        public Scout() : this(0, 0, "XXX")
          {
 
          }
-        public string name (get; set;)
+        public string name { get; set; }
+        public int troop { get; set; }
+        public double dues { get; set; }
     }
 }
