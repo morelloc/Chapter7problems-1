@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsApplication1
 {
-    class Schools
+    class Schools : IComparable
     {
 
         public Schools (int enrollment, string name)
@@ -23,7 +23,8 @@ namespace WindowsFormsApplication1
         }
     {
         int returnVal;
-        Schools temp = (Schools)object;
+        int enrollment;
+        Schools temp = (Schools) o;
         if(this.enrollment > temp.enrollment)
         returnVal = 1;
         else  
