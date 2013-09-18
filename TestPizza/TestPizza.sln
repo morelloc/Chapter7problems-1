@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoScouts", "WindowsFormsA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{38E7926D-BFF9-41AA-9195-6F8CA59A02A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendList", "FriendList\FriendList.csproj", "{081F4ADD-0B65-44A7-B718-2C523B216802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{38E7926D-BFF9-41AA-9195-6F8CA59A02A1}.Debug|x86.Build.0 = Debug|x86
 		{38E7926D-BFF9-41AA-9195-6F8CA59A02A1}.Release|x86.ActiveCfg = Release|x86
 		{38E7926D-BFF9-41AA-9195-6F8CA59A02A1}.Release|x86.Build.0 = Release|x86
+		{081F4ADD-0B65-44A7-B718-2C523B216802}.Debug|x86.ActiveCfg = Debug|x86
+		{081F4ADD-0B65-44A7-B718-2C523B216802}.Debug|x86.Build.0 = Debug|x86
+		{081F4ADD-0B65-44A7-B718-2C523B216802}.Release|x86.ActiveCfg = Release|x86
+		{081F4ADD-0B65-44A7-B718-2C523B216802}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

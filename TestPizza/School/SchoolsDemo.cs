@@ -3,40 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace WindowsFormsApplication1
+namespace SchoolsDemo
 {
-    class Schools : IComparable
+    class School : IComparable
     {
+        private int enrolled;
+        public int Enrolled { get; set; }
 
-        public Schools (int enrollment, string name)
+        int IComparable.CompareTo(Object other)
         {
-            int StudentsEnrolled = enrollment;
-            string FullName = name;
+            School otherSchool = (School)other;
+
+            if (this.Enrolled < otherSchool.Enrolled)
+                return -1;
+            else if (this.Enrolled > otherSchool.Enrolled)
+                return 1;
+
+            return 0;
         }
 
-
-        interface IComparable
-        {
-            public string name { get; set; }
-            public int enrollment { get; set; }
-            int CompareTo(Object o);
-        }
-    {
-        int returnVal;
-        int enrollment;
-        Schools temp = (Schools) o;
-        if(this.enrollment > temp.enrollment)
-        returnVal = 1;
-        else  
-        if(this.enrollment < temp.enrollment)
-        returnVal = -1;
-        else
-        returnVal = 0;
-        return returnVal;
-        
-    }
-
-
-      
     }
 }
