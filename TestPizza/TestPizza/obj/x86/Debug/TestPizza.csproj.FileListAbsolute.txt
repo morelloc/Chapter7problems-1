@@ -1,4 +1,0 @@
-C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\TestPizza\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\TestPizza\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\TestPizza\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\TestPizza\obj\x86\Debug\GenerateResource.write.1.tlog
