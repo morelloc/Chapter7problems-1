@@ -1,0 +1,8 @@
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\bin\Release\DisplayHousePlants.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\bin\Release\DisplayHousePlants.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\DisplayHousePlants.Properties.Resources.resources
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\DisplayHousePlants.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\DisplayHousePlants\obj\x86\Release\DisplayHousePlants.pdb

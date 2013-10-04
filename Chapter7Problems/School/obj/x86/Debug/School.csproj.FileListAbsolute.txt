@@ -8,3 +8,8 @@ C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\School
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\School.exe
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\School.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\bin\Debug\School.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\bin\Debug\School.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\School.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Debug\School.pdb

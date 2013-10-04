@@ -6,3 +6,11 @@ C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\TestCi
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\TestCircles.exe
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\TestCircles.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\bin\Debug\TestCircles.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\bin\Debug\TestCircles.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\TestCircles.Properties.Resources.resources
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\TestCircles.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\TestCircles\obj\x86\Debug\TestCircles.pdb

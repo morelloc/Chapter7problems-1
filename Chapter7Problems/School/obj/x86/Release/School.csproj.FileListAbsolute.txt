@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\bin\Release\School.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\bin\Release\School.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Release\School.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\School\obj\x86\Release\School.pdb

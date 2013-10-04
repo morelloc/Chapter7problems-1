@@ -3,3 +3,8 @@ C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\Friend
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\FriendList.exe
 C:\Users\Computer User\Desktop\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\FriendList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\FriendList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\FriendList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\bin\Debug\FriendList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\bin\Debug\FriendList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7problems-1\Chapter7Problems\FriendList\obj\x86\Debug\ResolveAssemblyReference.cache
